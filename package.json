@@ -4,7 +4,7 @@
   "description": "Electronic math dice, in a clean and simple interface.",
   "main": "server.js",
   "dependencies": {
-    "socket.io": "^2.4.0"
+    "socket.io": "^4.1.2"
   },
   "devDependencies": {},
   "scripts": {
